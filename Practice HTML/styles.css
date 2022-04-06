@@ -1,0 +1,26 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    color:rgb(45, 61, 29);
+    background-color: antiquewhite;
+ }
+h4{
+font-style: oblique;
+font-size: 24px;
+}
+
+.Heading{
+        font-style: italic;
+        color: blueviolet;
+        font-size: 30px;
+}
+
+li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    color:rgb(45, 61, 29);
+}
+
+.left{text-align: left;}
+
+.homebg{ background:url(images/background.jpg);}
